@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  font-size: larger;
+  padding: 30px;
+  display: grid;
+  grid-row: auto;
+
+  background-color: greenyellow;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.experience {
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
